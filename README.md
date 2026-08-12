@@ -143,6 +143,3 @@ jobs:
 
 
 
----
-
-Created by [Mukund-Tandon](https://github.com/Mukund-Tandon)
